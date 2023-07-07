@@ -55,7 +55,7 @@
     "title": "3D Product-Based Website ",
     "image": "./projectImages/threejs.png",
     "technologies": "React | Vite | ThreeJs | ",
-    "description": "Dotat cu puterea inteligenței artificiale. Poți să alegi culoarea produsului, să încarci orice imagine și să o folosești pe produs, să folosești Ai-ul integrat care va genera imagini unice pentru logo (pe subscripție)",
+    "description": "O componentă care poate fi folosită pentru reprezentarea a oricărui produs. Poți să alegi culoarea produsului, să încarci orice imagine și să o folosești pe produs, să folosești Ai-ul integrat care va genera imagini unice pentru logo (pe subscripție)",
     "github": "https://github.com/marclupanc/ai_threeJs_3D",
     "deployed": "https://3dwebsitebymarc.netlify.app/",
     "bgcolor": "#3e67ff",
