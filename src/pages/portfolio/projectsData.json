@@ -30,35 +30,31 @@
     "id": "3"
   },
   {
-    "title": "Quiz",
-    "image": "./projectImages/quiz.png",
-    "technologies": "JS | HTML | CSS",
-    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
-    "github": "https://github.com/mdyeates/coding-quiz",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
-    "bgcolor": "#f85781",
-    "id": "4"
-  },
-
-  {
-    "title": "P1",
-    "image": "./projectImages/P1.png",
-    "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
-    "technologies": "React | Framer | CSS | Bootstrap | Node",
-    "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
-    "bgcolor": "#ffcc33",
-    "id": "1"
-  },
-
-  {
-    "title": "3D Product-Based Website ",
+    "title": "3D Aplicație ",
     "image": "./projectImages/threejs.png",
     "technologies": "React | Vite | ThreeJs | ",
     "description": "O componentă care poate fi folosită pentru reprezentarea a oricărui produs. Poți să alegi culoarea produsului, să încarci orice imagine și să o folosești pe produs, să folosești Ai-ul integrat care va genera imagini unice pentru logo (pe subscripție)",
     "github": "https://github.com/marclupanc/ai_threeJs_3D",
     "deployed": "https://3dwebsitebymarc.netlify.app/",
     "bgcolor": "#3e67ff",
+    "id": "4"
+  },
+  {
+    "title": "Auto Service ",
+    "image": "./projectImages/hybridmd.png",
+    "description": "Unul dintre primele proiecte pe Wordpress. Web-site pentru service auto, cu magazin integrat. Desemenea este integrată posibilitatea de a se programa la service la timpul disponibil.",
+    "technologies": "Wordpress | HTML | CSS ",
+    "deployed": "https://hybrid.md/",
+    "bgcolor": "#ffcc33",
+    "id": "5"
+  },
+  {
+    "title": "Magazin de mobilă",
+    "image": "./projectImages/tomshkaf.png",
+    "technologies": "Wordpress | HTML | CSS",
+    "description": "Magazin online de mobilă. La fel un dintre primii clienți unde am folosit Wordpress ca tehnologie de bază pentru site",
+    "deployed": "http://tomshkaf.com/",
+    "bgcolor": "#f85781",
     "id": "6"
   }
 ]

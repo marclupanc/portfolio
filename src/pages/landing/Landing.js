@@ -69,7 +69,8 @@ const Landing = ({ name }) => {
                 .typeString("NextJs. ")
                   .pauseFor(500)
                   .typeString("Node + Express. ")
-
+                  .pauseFor(500)
+                  .typeString("Wordpress ")
                 .start();
             }}
           />
