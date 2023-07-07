@@ -52,7 +52,7 @@ const Landing = ({ name }) => {
             onInit={(typewriter) => {
               typewriter
                 .changeDelay(80)
-                .typeString("Sunt dezvoltator Web")
+                .typeString("Sunt Front End Developer")
                 .pauseFor(1500)
                 .deleteAll()
                 .typeString('Stack-ul de tehnologii:')
