@@ -71,7 +71,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
                </div>
                <div className="row">
                  <div className="col-12 col-md-6 info">
-                   <span>Locația:</span>
+                   <span>Locația: </span>
                    <p>{location}</p>
                  </div>
                  <div className="col-12 col-md-6 info">
