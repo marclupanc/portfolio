@@ -1,5 +1,22 @@
 [
-
+  {
+    "title": "Gallery",
+    "image": "./projectImages/gallery.png",
+    "technologies": "Wordpress | HTML | CSS",
+    "description": "Website creative. Poate fi folosit ca blog personal la fel și pentru a prezenta lucrările personale sau a galeriei",
+    "deployed": "https://demo.yootheme.com/wordpress/themes/line-gallery/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Consultanță",
+    "image": "./projectImages/consulting.png",
+    "technologies": "Wordpress | HTML | CSS | ",
+    "description": "Website pentru compania de consultanță de orice tip",
+    "deployed": "https://demo.yootheme.com/wordpress/themes/morgan-consulting/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
   {
     "title": "3D Aplicație ",
     "image": "./projectImages/threejs.png",
