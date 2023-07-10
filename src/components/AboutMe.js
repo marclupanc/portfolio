@@ -52,7 +52,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
          >
            <div className="contentContainer">
              <h4>Bine ai venit</h4>
-             <h5>Sunt Front End Developer cu experiența de peste 5 ani!</h5>
+             <h5>Sunt Front End Developer</h5>
              <div className="contentDescription">
                <p>{brand}</p>
              </div>
