@@ -38,7 +38,7 @@ const Landing = ({ name }) => {
       paddingBottom: "28px",
     },
   };
-  console.log('webhooktestt 2');
+  console.log('webhooktesttt 2');
   return (
     <section className="landing" style={styles.landing}>
       <Draw />
