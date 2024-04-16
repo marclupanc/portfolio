@@ -38,7 +38,7 @@ const Landing = ({ name }) => {
       paddingBottom: "28px",
     },
   };
-  console.log('PR test 2');
+  console.log('PR test 3');
   return (
     <section className="landing" style={styles.landing}>
       <Draw />
