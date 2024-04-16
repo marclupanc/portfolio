@@ -38,7 +38,7 @@ const Landing = ({ name }) => {
       paddingBottom: "28px",
     },
   };
-  console.log('webho okessdjt');
+  console.log('webho o kessdjt');
   return (
     <section className="landing" style={styles.landing}>
       <Draw />
